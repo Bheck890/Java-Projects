@@ -1,0 +1,185 @@
+Mon Sep 02 11:41:04 EDT 2019 [Console] ******************Begin: Calculation
+Mon Sep 02 11:41:04 EDT 2019 [Console] Title: Math Helper
+Mon Sep 02 11:41:04 EDT 2019 [Console] Made By: Brandon Heck
+Mon Sep 02 11:41:04 EDT 2019 [Console] Version (1.0)
+Mon Sep 02 11:41:04 EDT 2019 [Console] Maximum 25 signs
+Mon Sep 02 11:41:04 EDT 2019 [Console] Input: 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Error Detect] Space Check                = 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Solve] Phase: Solve
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem: 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Solve] [Compiler] Length: 1
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Solve] [Compiler] # of signs: 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Solve] [Compiler] First digit: 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Solve] [Compiler] Last Digit: 110010
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] User Input = 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] Answer = 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] [Math System] 0
+Mon Sep 02 11:41:04 EDT 2019 [Console] GUI Output 
+Mon Sep 02 11:41:04 EDT 2019 [Console] Error Check Successful
+Mon Sep 02 11:41:04 EDT 2019 [Console] Answer: 0
+Mon Sep 02 11:43:25 EDT 2019 [Console] ******************Begin: Calculation
+Mon Sep 02 11:43:25 EDT 2019 [Console] Title: Math Helper
+Mon Sep 02 11:43:25 EDT 2019 [Console] Made By: Brandon Heck
+Mon Sep 02 11:43:25 EDT 2019 [Console] Version (1.0)
+Mon Sep 02 11:43:25 EDT 2019 [Console] Maximum 25 signs
+Mon Sep 02 11:43:25 EDT 2019 [Console] Input: 3+3
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Error Detect] Space Check                = 0
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] Phase: Solve
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem: 3+3
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] [Compiler] Length: 3
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] [Compiler] First digit: 3
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 3+3
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart2 1: 3 2: 3
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] [Compiler] Last Digit: +3
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] [Solve] [Compiler] 3+3 = 6.0
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] User Input = 3+3
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] Answer = 6
+Mon Sep 02 11:43:25 EDT 2019 [Console] [Math System] 0
+Mon Sep 02 11:43:25 EDT 2019 [Console] GUI Output 
+Mon Sep 02 11:43:25 EDT 2019 [Console] Error Check Successful
+Mon Sep 02 11:43:25 EDT 2019 [Console] Answer: 6
+Mon Sep 02 11:43:43 EDT 2019 [Console] ******************Begin: Calculation
+Mon Sep 02 11:43:43 EDT 2019 [Console] Title: Math Helper
+Mon Sep 02 11:43:43 EDT 2019 [Console] Made By: Brandon Heck
+Mon Sep 02 11:43:43 EDT 2019 [Console] Version (1.0)
+Mon Sep 02 11:43:43 EDT 2019 [Console] Maximum 25 signs
+Mon Sep 02 11:43:43 EDT 2019 [Console] Input: 3/3
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Error Detect] Space Check                = 0
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] Phase: Solve
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem: 3/3
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] [Compiler] Length: 3
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] [Compiler] First digit: 3
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 3/3
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 3/3
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] [Compiler] Last Digit: /3
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] [Solve] [Compiler] 3/3 = 1.0
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] User Input = 3/3
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] Answer = 1
+Mon Sep 02 11:43:43 EDT 2019 [Console] [Math System] 0
+Mon Sep 02 11:43:43 EDT 2019 [Console] GUI Output 
+Mon Sep 02 11:43:43 EDT 2019 [Console] Error Check Successful
+Mon Sep 02 11:43:43 EDT 2019 [Console] Answer: 1
+Mon Sep 02 11:43:56 EDT 2019 [Console] ******************Begin: Calculation
+Mon Sep 02 11:43:56 EDT 2019 [Console] Title: Math Helper
+Mon Sep 02 11:43:56 EDT 2019 [Console] Made By: Brandon Heck
+Mon Sep 02 11:43:56 EDT 2019 [Console] Version (1.0)
+Mon Sep 02 11:43:56 EDT 2019 [Console] Maximum 25 signs
+Mon Sep 02 11:43:56 EDT 2019 [Console] Input: 25/2
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Error Detect] Space Check                = 0
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] Phase: Solve
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem: 25/2
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] [Compiler] Length: 4
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] [Compiler] First digit: 25
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 25/2
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 25/2
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] [Compiler] Last Digit: /2
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] [Solve] [Compiler] 25/2 = 12.5
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] User Input = 25/2
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] Answer = 12.5
+Mon Sep 02 11:43:56 EDT 2019 [Console] [Math System] 0
+Mon Sep 02 11:43:56 EDT 2019 [Console] GUI Output 
+Mon Sep 02 11:43:56 EDT 2019 [Console] Error Check Successful
+Mon Sep 02 11:43:56 EDT 2019 [Console] Answer: 12.5
+Mon Sep 02 11:44:11 EDT 2019 [Console] ******************Begin: Calculation
+Mon Sep 02 11:44:11 EDT 2019 [Console] Title: Math Helper
+Mon Sep 02 11:44:11 EDT 2019 [Console] Made By: Brandon Heck
+Mon Sep 02 11:44:11 EDT 2019 [Console] Version (1.0)
+Mon Sep 02 11:44:11 EDT 2019 [Console] Maximum 25 signs
+Mon Sep 02 11:44:11 EDT 2019 [Console] Input: 100+34-8
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Error Detect] Space Check                = 0
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] Phase: Solve
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem: 100+34-8
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] Length: 8
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] # of signs: 2
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] First digit: 100
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] Digit 2 : +34
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 100+34
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart2 1: 100 2: 34
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 134.0-8
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart2 1: 134.0 2: 8
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] Last Digit: -8
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] 100+34 = 134.0
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] [Solve] [Compiler] 134.0-8 = 126.0
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] User Input = 100+34-8
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] Answer = 126
+Mon Sep 02 11:44:11 EDT 2019 [Console] [Math System] 0
+Mon Sep 02 11:44:11 EDT 2019 [Console] GUI Output 
+Mon Sep 02 11:44:11 EDT 2019 [Console] Error Check Successful
+Mon Sep 02 11:44:11 EDT 2019 [Console] Answer: 126
+Mon Sep 02 11:49:39 EDT 2019 [Console] ******************Begin: Calculation
+Mon Sep 02 11:49:39 EDT 2019 [Console] Title: Math Helper
+Mon Sep 02 11:49:39 EDT 2019 [Console] Made By: Brandon Heck
+Mon Sep 02 11:49:39 EDT 2019 [Console] Version (1.0)
+Mon Sep 02 11:49:39 EDT 2019 [Console] Maximum 25 signs
+Mon Sep 02 11:49:45 EDT 2019 [Console] Input: 4+4/2
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Error Detect] Space Check                = 0
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] Phase: Solve
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem: 4+4/2
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] Length: 5
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] # of signs: 2
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] First digit: 4
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] Digit 2 : +4
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 4+4
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart2 1: 4 2: 4
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 8.0/2
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 8.0/2
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] Last Digit: /2
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] 4+4 = 8.0
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] [Solve] [Compiler] 8.0/2 = 4.0
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] User Input = 4+4/2
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] Answer = 4
+Mon Sep 02 11:49:45 EDT 2019 [Console] [Math System] 0
+Mon Sep 02 11:49:39 EDT 2019 [Console] GUI Output 
+Mon Sep 02 11:49:39 EDT 2019 [Console] Error Check Successful
+Mon Sep 02 11:49:39 EDT 2019 [Console] Answer: 4

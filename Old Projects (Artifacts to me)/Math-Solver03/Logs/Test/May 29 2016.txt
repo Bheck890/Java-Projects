@@ -1,0 +1,355 @@
+Sun May 29 15:45:10 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 15:45:10 EDT 2016 [Console] Title: Math Helper
+Sun May 29 15:45:10 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 15:45:10 EDT 2016 [Console] Version (0.9)
+Sun May 29 15:45:10 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 15:45:10 EDT 2016 [Console] Input: 9+9
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 9+9
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 3
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 9
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 9+9
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart2 1: 9 2: 9
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: +9
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] [Solve] [Compiler] 9+9 = 18.0
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] User Input = 9+9
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] Answer = 18.0
+Sun May 29 15:45:10 EDT 2016 [Console] [Math System] 0
+Sun May 29 15:45:10 EDT 2016 [Console] GUI Output 
+Sun May 29 15:45:10 EDT 2016 [Console] Error Check Successful
+Sun May 29 15:45:10 EDT 2016 [Console] Answer: 18.0
+Sun May 29 16:02:26 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:02:26 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:02:26 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:02:26 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:02:26 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:02:27 EDT 2016 [Console] Input: 9+9
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 9+9
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 3
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 9
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 9+9
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart2 1: 9 2: 9
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: +9
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] [Solve] [Compiler] 9+9 = 18.0
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] User Input = 9+9
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] Answer = 18
+Sun May 29 16:02:27 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:02:26 EDT 2016 [Console] GUI Output 
+Sun May 29 16:02:26 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:02:26 EDT 2016 [Console] Answer: 18
+Sun May 29 16:03:01 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:03:01 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:03:01 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:03:01 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:03:01 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:03:01 EDT 2016 [Console] Input: 9+10
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 9+10
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 4
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 9
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 9+10
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart2 1: 9 2: 10
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: +10
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] [Solve] [Compiler] 9+10 = 19.0
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] User Input = 9+10
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] Answer = 19
+Sun May 29 16:03:01 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:03:01 EDT 2016 [Console] GUI Output 
+Sun May 29 16:03:01 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:03:01 EDT 2016 [Console] Answer: 19
+Sun May 29 16:03:16 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:03:16 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:03:16 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:03:16 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:03:16 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:03:16 EDT 2016 [Console] Input: 9+10-4
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 9+10-4
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 6
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 2
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 9
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] Digit 2 : +10
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 9+10
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart2 1: 9 2: 10
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 19.0-4
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart2 1: 19.0 2: 4
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: -4
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] 9+10 = 19.0
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] [Solve] [Compiler] 19.0-4 = 15.0
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] User Input = 9+10-4
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] Answer = 15
+Sun May 29 16:03:16 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:03:16 EDT 2016 [Console] GUI Output 
+Sun May 29 16:03:16 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:03:16 EDT 2016 [Console] Answer: 15
+Sun May 29 16:03:35 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:03:35 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:03:35 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:03:35 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:03:35 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:03:35 EDT 2016 [Console] Input: 50/4
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 50/4
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 4
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 50
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 50/4
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 50/4
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: /4
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] [Solve] [Compiler] 50/4 = 12.5
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] User Input = 50/4
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] Answer = 12.5
+Sun May 29 16:03:35 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:03:35 EDT 2016 [Console] GUI Output 
+Sun May 29 16:03:35 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:03:35 EDT 2016 [Console] Answer: 12.5
+Sun May 29 16:03:53 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:03:53 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:03:53 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:03:53 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:03:53 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:03:53 EDT 2016 [Console] Input: 1/5
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 1/5
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 3
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 1
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 1/5
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 1/5
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: /5
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] [Solve] [Compiler] 1/5 = 0.2
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] User Input = 1/5
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] Answer = 0.2
+Sun May 29 16:03:53 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:03:53 EDT 2016 [Console] GUI Output 
+Sun May 29 16:03:53 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:03:53 EDT 2016 [Console] Answer: 0.2
+Sun May 29 16:04:04 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:04:04 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:04:04 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:04:04 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:04:04 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:04:04 EDT 2016 [Console] Input: 1/50
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 1/50
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 4
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 1
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 1/50
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 1/50
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: /50
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] [Solve] [Compiler] 1/50 = 0.02
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] User Input = 1/50
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] Answer = 0.02
+Sun May 29 16:04:04 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:04:04 EDT 2016 [Console] GUI Output 
+Sun May 29 16:04:04 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:04:04 EDT 2016 [Console] Answer: 0.02
+Sun May 29 16:04:14 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:04:14 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:04:14 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:04:14 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:04:14 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:04:14 EDT 2016 [Console] Input: 3/50
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 3/50
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 4
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 3
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 3/50
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 3/50
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: /50
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] [Solve] [Compiler] 3/50 = 0.06
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] User Input = 3/50
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] Answer = 0.06
+Sun May 29 16:04:14 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:04:14 EDT 2016 [Console] GUI Output 
+Sun May 29 16:04:14 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:04:14 EDT 2016 [Console] Answer: 0.06
+Sun May 29 16:04:25 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:04:25 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:04:25 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:04:25 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:04:25 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:04:25 EDT 2016 [Console] Input: 100/469230
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 100/469230
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 10
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 1
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 100
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 100/469230
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Diagnose] [Variable-Splitter] apart1 Prob: 100/469230
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: /469230
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] [Solve] [Compiler] 100/469230 = 2.1311510346738274E-4
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] User Input = 100/469230
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] Answer = 2.1311510346738274E-4
+Sun May 29 16:04:25 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:04:25 EDT 2016 [Console] GUI Output 
+Sun May 29 16:04:25 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:04:25 EDT 2016 [Console] Answer: 2.1311510346738274E-4
+Sun May 29 16:04:42 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:04:42 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:04:42 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:04:42 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:04:42 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:04:42 EDT 2016 [Console] Input: 
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 0
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 0
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: 110010
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] User Input = 
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] Answer = 
+Sun May 29 16:04:42 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:04:42 EDT 2016 [Console] GUI Output 
+Sun May 29 16:04:42 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:04:42 EDT 2016 [Console] Answer: 
+Sun May 29 16:04:56 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:04:56 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:04:56 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:04:56 EDT 2016 [Console] Version (0.9)
+Sun May 29 16:04:56 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:04:56 EDT 2016 [Console] Input: 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 1
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: 110010
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] User Input = 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] Answer = 0
+Sun May 29 16:04:56 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:04:56 EDT 2016 [Console] GUI Output 
+Sun May 29 16:04:56 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:04:56 EDT 2016 [Console] Answer: 0
+Sun May 29 16:05:55 EDT 2016 [Console] ******************Begin: Calculation
+Sun May 29 16:05:55 EDT 2016 [Console] Title: Math Helper
+Sun May 29 16:05:55 EDT 2016 [Console] Made By: Brandon Heck
+Sun May 29 16:05:55 EDT 2016 [Console] Version (1.0)
+Sun May 29 16:05:55 EDT 2016 [Console] Maximum 25 signs
+Sun May 29 16:05:55 EDT 2016 [Console] Input: 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Error Detect] Phase: Check For Errors
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Error Detect] Space Check                = 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Error Detect] Lowercase Letter Check     = 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Error Detect] Uppercase Letter Check      = 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Error Detect] ([LATER])Algebra           = 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Error Detect] PROBLEM CHECK DEBUG        = 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Solve] Phase: Solve
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem: 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Solve] [Compiler] Length: 1
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Solve] [Compiler] Problem DATA
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Solve] [Compiler] ERROR: 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Solve] [Compiler] # of signs: 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Solve] [Compiler] First digit: 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Solve] [Compiler] Last Digit: 110010
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] [Solve] [Compiler] FINAL OUTPUT
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] User Input = 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] Answer = 0
+Sun May 29 16:05:55 EDT 2016 [Console] [Math System] 0
+Sun May 29 16:05:55 EDT 2016 [Console] GUI Output 
+Sun May 29 16:05:55 EDT 2016 [Console] Error Check Successful
+Sun May 29 16:05:55 EDT 2016 [Console] Answer: 0
